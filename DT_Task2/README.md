@@ -75,7 +75,7 @@ If the request to create a nudge is successful, the API will respond with a JSON
   "success": true,
   "message": "Nudge created successfully",
   "nudge": {
-    "_id": "60d2b74245cc930024f15b45",
+    "_id": "6045",
     "event_id": "60d2b73c45cc930024f15b44",
     "title": "Join our event!",
     "image": "https://example.com/image.png",
@@ -95,7 +95,7 @@ If the request to retrieve a nudge by ID is successful, the API will respond wit
 {
   "success": true,
   "nudge": {
-    "_id": "60d2b74245cc930024f15b45",
+    "_id": "605",
     "event_id": "60d2b73c45cc930024f15b44",
     "title": "Join our event!",
     "image": "https://example.com/image.png",
@@ -117,7 +117,7 @@ If the request to update a nudge is successful, the API will respond with a JSON
   "message": "Nudge updated successfully",
   "nudge": {
     "_id": "60d2b74245cc930024f15b45",
-    "event_id": "60d2b73c45cc930024f15b44",
+    "event_id": "604",
     "title": "Updated nudge title",
     "image": "https://example.com/updated-image.png",
     "schedule": "2022-06-25T18:30:00.000Z",
