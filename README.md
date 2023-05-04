@@ -7,7 +7,7 @@ Steps to run it:-
 
 --> Add .env file and define PORT and MONGO_URI in it.
 
---> Go to command line and type these command:-
+--> Go to command line and type these command :-
        -> npm init
        
        -> npm i
